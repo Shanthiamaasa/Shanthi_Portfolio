@@ -7,9 +7,7 @@ Welcome to my portfolio
 ## Hackathon:
 ### [Refactored@JNTU - Hackathon - March 2018](https://github.com/Shanthiamaasa/jntu_hackathon#refactoredjntu---hackathon---march-2018)
 
-### We are group of 3 and Problem Statement we have worked on:
-
-### Problem: Bitcoin Price Analysis
+### We are group of 3 and Problem Statement we have worked on is: Bitcoin Price Analysis
 
 Historic price of bitcoins are provided for analysis. Your task is to 
 
@@ -17,39 +15,6 @@ Historic price of bitcoins are provided for analysis. Your task is to
 2. Perform Exploratory Data Analysis on the dataset.
 3. Can you predict the future price of the dataset? 
 
-#### 1.1 Time-Series Analysis
-
-Here is an example of time series analysis on Arctic Sea Ice that you can use for your own analysis.
-
-Reference notebook: [Arctic Sea Ice](https://github.com/colaberry/refactored_labs/blob/master/Arctic_Sea_Ice_Analysis.ipynb)
-
-#### 1.2 Data Description
-
-[Bitcoin data](https://github.com/colaberry/data/tree/master/Bitcoin)
-
-* Date : Date of observation
-* btc_market_price : Average USD market price across major bitcoin exchanges.
-* btc_total_bitcoins : The total number of bitcoins that have already been mined.
-* btc_market_cap : The total USD value of bitcoin supply in circulation.
-* btc_trade_volume : The total USD value of trading volume on major bitcoin exchanges.
-* btc_blocks_size : The total size of all block headers and transactions.
-* btc_avg_block_size : The average block size in MB.
-* btc_n_orphaned_blocks : The total number of blocks mined but ultimately not attached to the main Bitcoin blockchain.
-* btc_n_transactions_per_block : The average number of transactions per block.
-* btc_median_confirmation_time : The median time for a transaction to be accepted into a mined block.
-* btc_hash_rate : The estimated number of tera hashes per second the Bitcoin network is performing.
-* btc_difficulty : A relative measure of how difficult it is to find a new block.
-* btc_miners_revenue : Total value of coinbase block rewards and transaction fees paid to miners.
-* btc_transaction_fees : The total value of all transaction fees paid to miners.
-* btc_cost_per_transaction_percent : miners revenue as percentage of the transaction volume.
-* btc_cost_per_transaction : miners revenue divided by the number of transactions.
-* btc_n_unique_addresses : The total number of unique addresses used on the Bitcoin blockchain.
-* btc_n_transactions : The number of daily confirmed Bitcoin transactions.
-* btc_n_transactions_total : Total number of transactions.
-* btc_n_transactions_excluding_popular : The total number of Bitcoin transactions, excluding the 100 most popular addresses.
-* btc_n_transactions_excluding_chains_longer_than_100 : The total number of Bitcoin transactions per day excluding long transaction chains.
-* btc_output_volume : The total value of all transaction outputs per day.
-* btc_estimated_transaction_volume : The total estimated value of transactions on the Bitcoin blockchain.
 
 
 # [Project 1: Visualization-on-COVID-19-Data](https://github.com/Shanthiamaasa/Visualization-on-COVID-19-Data/edit/master/README.md)
