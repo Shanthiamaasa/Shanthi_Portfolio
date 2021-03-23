@@ -2,7 +2,7 @@
 Welcome to my portfolio
 - 👋 Hi, I’m @Shanthiamaasa
 - 👀 I’m interested in Data Science
-- 📫 How to reach me ...ashanthi1998@gmail.com
+- 📫Reach me at...https://www.linkedin.com/in/shanthiamaasa/ 
 
 ## Hackathon:
 ### [Refactored@JNTU - Hackathon - March 2018](https://github.com/Shanthiamaasa/jntu_hackathon#refactoredjntu---hackathon---march-2018)
