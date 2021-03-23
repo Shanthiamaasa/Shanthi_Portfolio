@@ -1,4 +1,4 @@
-# Shanthi_portfolio
+# Shanthi_Portfolio
 Welcome to my portfolio
 
 ## Hackathon:
