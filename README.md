@@ -1,8 +1,15 @@
 # Shanthi_Portfolio
 Welcome to my portfolio
 - 👋 Hi, I’m @Shanthiamaasa
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science. I am a master's student with a degree in Data Science and will be graduating in May 2021. I chose the field of study because I’ve always been interested in math and programming, and I love to work with data, obtain insights. 
 - 📫Reach me at...https://www.linkedin.com/in/shanthiamaasa/ 
+
+## Technical Skills:
+Programming     :     Python, Java, SQL, Hadoop, MapReduce, Spark, HTML, CSS¬¬, Hive
+Python Libraries:     NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK
+Big Data        :     Hadoop, Hive, Spark, AWS, Microsoft Azure
+Tools           :     Rapid Miner, Power BI, Azure, SAS EM, SPSS, ArcGIS, Excel, Tableau, MS Office, Alteryx, Anaconda,
+                                   Informatica.
 
 ## Hackathon:
 ### [Refactored@JNTU - Hackathon - March 2018](https://github.com/Shanthiamaasa/jntu_hackathon#refactoredjntu---hackathon---march-2018)
