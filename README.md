@@ -5,11 +5,14 @@ Welcome to my portfolio
 - 📫Reach me at...https://www.linkedin.com/in/shanthiamaasa/ 
 
 ## Technical Skills:
-Programming     :     Python, Java, SQL, Hadoop, MapReduce, Spark, HTML, CSS¬¬, Hive
-Python Libraries:     NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK
-Big Data        :     Hadoop, Hive, Spark, AWS, Microsoft Azure
-Tools           :     Rapid Miner, Power BI, Azure, SAS EM, SPSS, ArcGIS, Excel, Tableau, MS Office, Alteryx, Anaconda,
-                                   Informatica.
+#### Programming:   
+Python, Java, SQL, Hadoop, MapReduce, Spark, HTML, CSS¬¬, Hive
+#### Python Libraries:  
+NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK
+#### Big Data:    
+Hadoop, Hive, Spark, AWS, Microsoft Azure
+#### Tools:  
+Rapid Miner, Power BI, Azure, SAS EM, SPSS, ArcGIS, Excel, Tableau, MS Office, Alteryx, Anaconda, Informatica.
 
 ## Hackathon:
 ### [Refactored@JNTU - Hackathon - March 2018](https://github.com/Shanthiamaasa/jntu_hackathon#refactoredjntu---hackathon---march-2018)
